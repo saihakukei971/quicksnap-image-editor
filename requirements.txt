@@ -1,0 +1,7 @@
+pillow>=9.0.0
+pysimplegui>=4.60.4
+rembg>=2.0.50
+opencv-python>=4.5.5
+pyperclip>=1.8.2
+numpy>=1.22.0
+pywin32>=300; platform_system=="Windows"
