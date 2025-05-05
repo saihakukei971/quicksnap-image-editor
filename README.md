@@ -93,17 +93,23 @@ pyinstaller main.py --onefile --noconsole --add-data "ui;ui" --add-data "tools;t
 
 ---
 
-(備考)
+###備考
+
 使用方法
 
 セットアップ:
-bashpip install -r requirements.txt
+```bash
+pip install -r requirements.txt
+```
 
 起動:
-bashpython main.py
+```bash
+python main.py
+```
+
 または Windows では launch.bat をダブルクリック
+
 EXE作成 (Windows):
-bashpython build_exe.py
-
-
-このツールは、エンジニアとデザイナーの視点を組み合わせた、洗練された使いやすいインターフェースと実用的な機能を兼ね備えています。コードは保守性が高く、機能拡張も容易です。
+```bash
+python build_exe.py
+```
