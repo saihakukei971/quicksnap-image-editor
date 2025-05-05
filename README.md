@@ -93,7 +93,7 @@ pyinstaller main.py --onefile --noconsole --add-data "ui;ui" --add-data "tools;t
 
 ---
 
-###備考
+### 備考
 
 使用方法
 
